@@ -10,4 +10,4 @@ pandas-profiling
 pandas_ta
 streamlit-pandas-profiling
 xbbg
-Python==3.12.2
+python_version==3.12.2
