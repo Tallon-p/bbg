@@ -10,5 +10,4 @@ pandas-profiling
 pandas_ta
 streamlit-pandas-profiling
 xbbg
-blpapi
 Python==3.12.2
