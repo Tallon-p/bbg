@@ -1,0 +1,14 @@
+extra-streamlit-components
+streamlit
+streamlit-aggrid
+streamlit-authenticator
+streamlit-elements
+streamlit-pandas-profiling
+pandas
+pandas-datareader
+pandas-profiling
+pandas_ta
+streamlit-pandas-profiling
+xbbg
+blpapi
+Python==3.12.2
